@@ -1,0 +1,11 @@
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\bin\Debug\netcoreapp2.1\TwitterDocOrientedDB.deps.json
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\bin\Debug\netcoreapp2.1\TwitterDocOrientedDB.runtimeconfig.json
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\bin\Debug\netcoreapp2.1\TwitterDocOrientedDB.runtimeconfig.dev.json
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\bin\Debug\netcoreapp2.1\TwitterDocOrientedDB.dll
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\bin\Debug\netcoreapp2.1\TwitterDocOrientedDB.pdb
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\obj\Debug\netcoreapp2.1\TwitterDocOrientedDB.csprojAssemblyReference.cache
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\obj\Debug\netcoreapp2.1\TwitterDocOrientedDB.csproj.CoreCompileInputs.cache
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\obj\Debug\netcoreapp2.1\TwitterDocOrientedDB.AssemblyInfoInputs.cache
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\obj\Debug\netcoreapp2.1\TwitterDocOrientedDB.AssemblyInfo.cs
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\obj\Debug\netcoreapp2.1\TwitterDocOrientedDB.dll
+C:\Users\elitsa\source\repos\TwitterDocOrientedDB\TwitterDocOrientedDB\obj\Debug\netcoreapp2.1\TwitterDocOrientedDB.pdb
