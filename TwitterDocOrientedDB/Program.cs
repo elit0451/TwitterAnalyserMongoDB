@@ -60,23 +60,23 @@ namespace TwitterDocOrientedDB
                         Console.WriteLine("Amount of Twitter users: " + helper.GetNumberOfUsers());
                         break;
                     case 2:
-						Console.WriteLine("Twitter users who linked the most to other Twitter users:");
+                        Console.WriteLine("Twitter users who linked the most to other Twitter users:");
                         PrintUsersWhoLinkTheMost(helper);
                         break;
                     case 3:
-						Console.WriteLine("Twitter users who are mentioned the most:");
+                        Console.WriteLine("Twitter users who are mentioned the most:");
                         PrintMostMentionedUsers(helper);
                         break;
                     case 4:
-						Console.WriteLine("Twitter users who were the most active:");
+                        Console.WriteLine("Twitter users who were the most active:");
                         PrintActiveUsers(helper);
                         break;
                     case 5:
-						Console.WriteLine("Twitter users who are the most grumpiest:");
+                        Console.WriteLine("Twitter users who are the most grumpiest:");
                         PrintNegativeUsers(helper);
                         break;
                     case 6:
-						Console.WriteLine("Twitter users who are the most happiest:");
+                        Console.WriteLine("Twitter users who are the most happiest:");
                         PrintPositiveUsers(helper);
                         break;
                     case 7:
