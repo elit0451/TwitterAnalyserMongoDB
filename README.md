@@ -1,4 +1,4 @@
-# TwitterAnalyser - implemented MongoDB
+# TwitterAnalyser - implemented with MongoDB
 
 ## Features
 
