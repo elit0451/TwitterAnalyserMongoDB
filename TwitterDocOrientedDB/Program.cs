@@ -12,7 +12,10 @@ namespace TwitterDocOrientedDB
 
         private void Run()
         {
-            //new TweetsRepo().Print();
+            Console.WriteLine("Importing data... Please wait!");
+            new TweetsRepo();
+            Console.Clear();
+
             string title = @"
  ____  _  _  __  ____  ____  ____  ____ 
 (_  _)/ )( \(  )(_  _)(_  _)(  __)(  _ \
