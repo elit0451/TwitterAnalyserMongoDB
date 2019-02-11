@@ -18,19 +18,19 @@
 * Docker ✅
 
 ## How to run
-1. Download the sample Twitter data with: 
-`wget http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip`
-1. Uncompress the Twitter dataset to your current directory with:
-`unzip trainingandtestdata.zip`
-
 1. Connect to your Docker container running the MongoDB DBMS through:
 `docker run --rm -v $(pwd)/data:/data/db --publish=27017:27017 --name dbms -d mongo 88385afac5fe88a5ba47cd60c084bc1855cae6089a7e7d95ba24f0ba6fea1404`
 	
   NB! If you have *Windows*, please replace **$(pwd)** with the path to the directory of the repository
 
-1. Run the following command
+1. Run the following command in a new shell
 `docker run -it --rm elit0452/dotnet`
 	-  In case you don't have the image downloaded, it will be downloaded from Docker hub 🐳. 
+
+1. Download the sample Twitter data with: 
+`wget http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip`
+1. Uncompress the Twitter dataset to your current directory with:
+`unzip trainingandtestdata.zip`
 
 1. Clone the project using the  following command **or** download the repository zip file
 `git clone https://github.com/elit0451/TwitterAnalyserMongoDB.git`
